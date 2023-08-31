@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(36, 36, 36);
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    
+}
+
+header{
+    background-color:#ffffff;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+h1 {
+    color:#f4f4f4;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 0;
+    padding: 100px;
+}
+
+h2 {
+    color:#ffffff;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0;
+    padding: 10px;
+  
+}
+
+h3 {
+    color:#ffffff;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 0;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
